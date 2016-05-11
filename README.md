@@ -7,7 +7,7 @@ USAGE:
 
 From the command line:
 <pre>
-  INCRVER.EXE [-?|H|V:n.n.n.n|R:\"rcfilename\"] RC FILE NAME
+  INCRVER.EXE [-?|H|V:n.n.n.n|R:"rcfilename"] RC FILE NAME
    where  -? or -H displays this message
      and      -V:n.n.n.n sets the version string to 'n.n.n.n'
      and      -R:"rcfilename" extracts the version from "rcfilename"
